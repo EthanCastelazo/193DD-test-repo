@@ -1,0 +1,12 @@
+---
+title: "test-repo2"
+author: "ethan c"
+format: pdf
+---
+# Set up
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
